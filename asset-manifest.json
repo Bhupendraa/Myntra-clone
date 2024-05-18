@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Myntra-clone/static/css/main.3d054b7f.css",
+    "main.js": "/Myntra-clone/static/js/main.713c67d6.js",
+    "static/js/787.e764b073.chunk.js": "/Myntra-clone/static/js/787.e764b073.chunk.js",
+    "static/media/banner.jpg": "/Myntra-clone/static/media/banner.75a7e2a0bb90b0ed4c07.jpg",
+    "static/media/firstOrder.webp": "/Myntra-clone/static/media/firstOrder.aec1dd0d3c1b056802e9.webp",
+    "index.html": "/Myntra-clone/index.html",
+    "main.3d054b7f.css.map": "/Myntra-clone/static/css/main.3d054b7f.css.map",
+    "main.713c67d6.js.map": "/Myntra-clone/static/js/main.713c67d6.js.map",
+    "787.e764b073.chunk.js.map": "/Myntra-clone/static/js/787.e764b073.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d054b7f.css",
+    "static/js/main.713c67d6.js"
+  ]
+}
